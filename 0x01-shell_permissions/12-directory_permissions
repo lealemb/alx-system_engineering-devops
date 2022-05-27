@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -mi 751 my_dir
+mkdir -mi my_dir
