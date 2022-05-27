@@ -1,1 +1,2 @@
-#!/bin/bash                                                                                                                            mmkdir -m 751 my_dir
+#!/bin/bash
+mkdir -mi 751 my_dir
