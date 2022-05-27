@@ -1,2 +1,2 @@
-#!/bin/bash
-mkdir -m 755 dir_holberton
+#!/bin/bash    
+chgrp school hello
